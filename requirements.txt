@@ -1,0 +1,12 @@
+Installation:
+
+-Install the required libraries:
+
+pip install numpy pandas matplotlib seaborn
+
+
+
+For the pipeline:
+
+-Rename your file "student.xlsx" and ensure it is a xlsx file. 
+-Place it in the foder where you stored the code.
